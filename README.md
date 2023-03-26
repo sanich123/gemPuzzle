@@ -4,8 +4,6 @@
 
 *or launch locally:*
 
-copy ssh link to the project
-
 `git clone git@github.com:sanich123/gemPuzzle.git project`
 
 `cd project`
@@ -31,3 +29,5 @@ JavaScript, WebPack, Less
 * Таймер времени
 
 * Изменение размера доски
+
+* Сохранение результатов
