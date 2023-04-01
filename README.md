@@ -4,14 +4,7 @@
 
 *or launch locally:*
 
-`git clone git@github.com:sanich123/gemPuzzle.git project`
-
-`cd project`
-
-`npm i`
-
-`npm start`
-
+`git clone git@github.com:sanich123/gemPuzzle.git project&&cd project&&npm i&&npm start`
 
 ### Screenshots
 
